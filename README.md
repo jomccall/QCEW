@@ -20,8 +20,8 @@ The purpose of this folder is to guide the analyst through methods for obtaining
     Public facing visualization  
     export  
 * Scenario 2
-  ^^
+  We are concerned with examining the Advanced Manufacturing industry in a few different comparative regions.
 * Scenario 3
-  ^^
+  We are concerned with trends in goods versus service producing industries over the last five years.
 * Scenario 4
   ^^
